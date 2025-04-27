@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 5000;
 // CORS setup
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://student-management-system-1-stvv.onrender.com'
+  'https://wt-1-46aa.onrender.com'
 ];
 
 app.use(cors({
